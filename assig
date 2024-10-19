@@ -1,0 +1,11 @@
+What is a variable in Python?
+A variable in Python is a name given to a memory location that is used to store data values. It acts as a reference or container to store information,
+ which can then be used and manipulated within a program.
+
+ Explain the difference between a list and a tuple.
+A list is a mutable (changeable) sequence of elements that can hold items of different types. Lists are defined using square brackets [] while
+A tuple is an immutable (unchangeable) sequence of elements, which means once a tuple is created, its values cannot be changed. Tuples are defined using parentheses ()
+
+How do you format a string in Python?
+There are several ways to format strings in Python:
+Using f-strings (Python 3.6+)
